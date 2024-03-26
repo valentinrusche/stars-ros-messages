@@ -7,6 +7,7 @@ set(ROS_VERSION $ENV{ROS_VERSION})
 set(SERVICE_FILES StarsGetActorState.srv StarsGetActorWaypoint.srv StarsGetAllWaypoints.srv)
 
 set(MSG_FILES
+    StarsActorInfo.msg
     StarsActorList.msg
     StarsActorState.msg
     StarsSimulationStatus.msg
