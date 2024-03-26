@@ -5,5 +5,5 @@
 # For a copy, see <https://opensource.org/licenses/MIT>.
 #
 
-StarsActorInfo[] actors
+stars_msgs/StarsActorInfo[] actors
 

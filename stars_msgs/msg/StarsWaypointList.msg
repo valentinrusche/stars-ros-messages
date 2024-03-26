@@ -5,4 +5,4 @@
 # For a copy, see <https://opensource.org/licenses/MIT>.
 #
 
-StarsWaypoint[] waypoints
+stars_msgs/StarsWaypoint[] waypoints

@@ -22,4 +22,4 @@ float32 geo_latitude
 float32 geo_longitude
 float32 geo_altitude
 
-StarsSimulationStatus simulation_status
+stars_msgs/StarsSimulationStatus simulation_status
