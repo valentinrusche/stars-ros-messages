@@ -5,5 +5,7 @@
 # For a copy, see <https://opensource.org/licenses/MIT>.
 #
 
-stars_msgs/StarsActorInfo[] actors
-
+uint32 id
+uint32 parent_id # 0 if no parent available
+string type
+string rolename

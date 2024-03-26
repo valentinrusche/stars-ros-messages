@@ -7,10 +7,7 @@
 
 std_msgs/Header header
 
-uint32 id # for easier filtering
-uint32 parent_id # default: 0 if no parent available
-string type
-string rolename
+stars_msgs/StarsActorInfo actor_info
 
 float32 velocity
 geometry_msgs/Accel acceleration
