@@ -22,5 +22,4 @@ float32 geo_latitude
 float32 geo_longitude
 float32 geo_altitude
 
-StarsEgoVehicleControl control
 StarsSimulationStatus simulation_status
