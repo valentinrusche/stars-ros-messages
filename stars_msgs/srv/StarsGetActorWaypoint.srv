@@ -7,4 +7,4 @@
 
 uint32 id
 ---
-StarsWaypoint waypoint
+stars_msgs/StarsWaypoint waypoint

@@ -6,4 +6,4 @@
 #
 
 ---
-StarsWaypointArray waypoints
+stars_msgs/StarsWaypointList waypoints

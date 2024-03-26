@@ -6,4 +6,4 @@
 #
 uint32 id
 ---
-StarsActorState actor_state
+stars_msgs/StarsActorState actor_state
