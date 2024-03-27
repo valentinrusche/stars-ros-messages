@@ -19,4 +19,4 @@ float32 geo_latitude
 float32 geo_longitude
 float32 geo_altitude
 
-stars_msgs/StarsSimulationStatus simulation_status
+float32 current_tick
